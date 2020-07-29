@@ -1,0 +1,9 @@
+C:\Users\obalo\source\repos\ProjectX\ProjectX\bin\Debug\ProjectX.dacpac
+C:\Users\obalo\source\repos\ProjectX\ProjectX\bin\Debug\ProjectX.dll
+C:\Users\obalo\source\repos\ProjectX\ProjectX\bin\Debug\ProjectX.pdb
+C:\Users\obalo\source\repos\ProjectX\ProjectX\obj\Debug\Model.xml
+C:\Users\obalo\source\repos\ProjectX\ProjectX\obj\Debug\refactor.xml
+C:\Users\obalo\source\repos\ProjectX\ProjectX\obj\Debug\postdeploy.sql
+C:\Users\obalo\source\repos\ProjectX\ProjectX\obj\Debug\predeploy.sql
+C:\Users\obalo\source\repos\ProjectX\ProjectX\obj\Debug\ProjectX.dll
+C:\Users\obalo\source\repos\ProjectX\ProjectX\obj\Debug\ProjectX.pdb

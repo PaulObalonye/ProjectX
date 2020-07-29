@@ -1,0 +1,10 @@
+7/29/2020 2:44:38 PM	This log contains information about the import schema operation into project 'ProjectX' on computer 'CLEVELANDAFRICA' by user 'obalo'.
+7/29/2020 2:44:38 PM	Deserializing model
+7/29/2020 2:44:38 PM	Resolving model
+7/29/2020 2:44:38 PM	Visiting imported model for types
+7/29/2020 2:44:38 PM	Scanning project for duplicate elements
+7/29/2020 2:44:38 PM	Finished duplicate element processing
+7/29/2020 2:44:38 PM	Processing extra files
+7/29/2020 2:44:38 PM	Finished importing Data-tier Application file.
+7/29/2020 2:44:38 PM	A summary of the import was saved to the following location: C:\Users\obalo\source\repos\ProjectX\ProjectX\Import Schema Logs\ProjectX_20200729064438.log
+7/29/2020 2:44:38 PM	Click Finish to continue...
